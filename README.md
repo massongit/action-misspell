@@ -1,4 +1,4 @@
-# GitHub Action: Run misspell with reviewdog
+# GitHub Action: Run misspell with reviewdoga
 
 [![Docker Image CI](https://github.com/reviewdog/action-misspell/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/reviewdog/action-misspell/actions)
 [![depup](https://github.com/reviewdog/action-misspell/workflows/depup/badge.svg)](https://github.com/reviewdog/action-misspell/actions?query=workflow%3Adepup)
